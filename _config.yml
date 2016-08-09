@@ -1,4 +1,3 @@
-layout_spectrum: 0.8328614118508995
 typography_spectrum: 0.48646319448016584
 color:
   brandStrength: 0.9261568777728826
@@ -11,4 +10,9 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.8328614118508995
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bb94a8a-16a8-4e74-ac01-195632dbf364.png
 name: Gestion Europe
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fb47a9e-34dc-41b4-9c5c-275cd80c815a.png
